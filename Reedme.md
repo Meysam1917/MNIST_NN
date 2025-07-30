@@ -11,7 +11,7 @@ This project is a basic feedforward neural network trained on the MNIST dataset 
 ## 🚀 Run It Yourself
 
 ```bash
-git clone https://github.com/yourusername/mnist-nn.git
-cd mnist-nn
-pip install -r requirements.txt
+git clone https://github.com/Meysam1917/MNIST_NN.git
+cd MNIST_NN
+pip install -r Requirements.txt
 python MNIST.py
